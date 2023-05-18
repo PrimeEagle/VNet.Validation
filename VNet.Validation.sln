@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VNet.Validation", "VNet.Validation\VNet.Validation.csproj", "{C467AF87-790B-42D4-B34C-63015DE5D8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNet.Validation.Tests", "VNet.Validation.Tests\VNet.Validation.Tests.csproj", "{9CB716FD-5599-4884-B9A0-E1F2F2C638B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C467AF87-790B-42D4-B34C-63015DE5D8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C467AF87-790B-42D4-B34C-63015DE5D8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C467AF87-790B-42D4-B34C-63015DE5D8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C467AF87-790B-42D4-B34C-63015DE5D8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB716FD-5599-4884-B9A0-E1F2F2C638B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB716FD-5599-4884-B9A0-E1F2F2C638B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB716FD-5599-4884-B9A0-E1F2F2C638B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB716FD-5599-4884-B9A0-E1F2F2C638B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B94E9C7-5ED8-450E-94AC-4065E6853321}
+	EndGlobalSection
+EndGlobal
