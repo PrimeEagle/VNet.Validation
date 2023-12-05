@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q7LG7qxo228jNw6T4xenLzR6x0YnzaqIMgFFeYb99REskmnT0hHh3slFgXaCMBPGhBExqTqIcPPOx6/0ZfWzqg==",
+  "dgSpecHash": "0botjz2Nkx+7/q6KZdGo31I10DTvxo7G4XuqmszznQS6udkvPXXUbyDDyH563oz4Ykyo4O6/wqumT8Z8DGgLJg==",
   "success": true,
   "projectFilePath": "D:\\My Code\\VNet.Validation.git\\VNet.Validation.Tests\\VNet.Validation.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\johnv\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\johnv\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
     "C:\\Users\\johnv\\.nuget\\packages\\microsoft.codecoverage\\17.9.0-preview-23531-01\\microsoft.codecoverage.17.9.0-preview-23531-01.nupkg.sha512",
     "C:\\Users\\johnv\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0-preview-23531-01\\microsoft.net.test.sdk.17.9.0-preview-23531-01.nupkg.sha512",
