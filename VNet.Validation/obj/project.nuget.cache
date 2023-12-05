@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tRThYS8I63vYWOPRJ9UYQaCb7QPTWPo3TXbDeoLrDtlo4BvRWP1vpDxJGzmpglFvBc8LlIPSsYEFIOqXzd7jDQ==",
+  "success": true,
+  "projectFilePath": "D:\\My Code\\VNet.Validation.git\\VNet.Validation\\VNet.Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnv\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

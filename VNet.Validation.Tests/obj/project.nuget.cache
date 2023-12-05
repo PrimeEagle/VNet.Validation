@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5JfdJOAPBmBuWiDAPXP/z8MSQbLsQprPhNfsrpyXuzpPyUoLjRNW5NbkG4rK4zDDZITvFDLAky1PhL4f+hfwQ==",
+  "success": true,
+  "projectFilePath": "D:\\My Code\\VNet.Validation.git\\VNet.Validation.Tests\\VNet.Validation.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnv\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\johnv\\.nuget\\packages\\microsoft.codecoverage\\17.9.0-preview-23531-01\\microsoft.codecoverage.17.9.0-preview-23531-01.nupkg.sha512",
+    "C:\\Users\\johnv\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0-preview-23531-01\\microsoft.net.test.sdk.17.9.0-preview-23531-01.nupkg.sha512",
+    "C:\\Users\\johnv\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0-preview-23531-01\\microsoft.testplatform.objectmodel.17.9.0-preview-23531-01.nupkg.sha512",
+    "C:\\Users\\johnv\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0-preview-23531-01\\microsoft.testplatform.testhost.17.9.0-preview-23531-01.nupkg.sha512",
+    "C:\\Users\\johnv\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\johnv\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\johnv\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\johnv\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
