@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Code\\VNet.Validation.git\\VNet.Validation\\VNet.Validation.csproj": {}
+    "D:\\My Code\\VNet.Validation\\VNet.Validation\\VNet.Validation.csproj": {}
   },
   "projects": {
-    "D:\\My Code\\VNet.Validation.git\\VNet.Validation\\VNet.Validation.csproj": {
+    "D:\\My Code\\VNet.Validation\\VNet.Validation\\VNet.Validation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Code\\VNet.Validation.git\\VNet.Validation\\VNet.Validation.csproj",
+        "projectUniqueName": "D:\\My Code\\VNet.Validation\\VNet.Validation\\VNet.Validation.csproj",
         "projectName": "VNet.Validation",
-        "projectPath": "D:\\My Code\\VNet.Validation.git\\VNet.Validation\\VNet.Validation.csproj",
+        "projectPath": "D:\\My Code\\VNet.Validation\\VNet.Validation\\VNet.Validation.csproj",
         "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
-        "outputPath": "D:\\My Code\\VNet.Validation.git\\VNet.Validation\\obj\\",
+        "outputPath": "D:\\My Code\\VNet.Validation\\VNet.Validation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

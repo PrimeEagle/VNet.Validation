@@ -1033,11 +1033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Code\\VNet.Validation.git\\VNet.Validation.Tests\\VNet.Validation.Tests.csproj",
+      "projectUniqueName": "D:\\My Code\\VNet.Validation\\VNet.Validation.Tests\\VNet.Validation.Tests.csproj",
       "projectName": "VNet.Validation.Tests",
-      "projectPath": "D:\\My Code\\VNet.Validation.git\\VNet.Validation.Tests\\VNet.Validation.Tests.csproj",
+      "projectPath": "D:\\My Code\\VNet.Validation\\VNet.Validation.Tests\\VNet.Validation.Tests.csproj",
       "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
-      "outputPath": "D:\\My Code\\VNet.Validation.git\\VNet.Validation.Tests\\obj\\",
+      "outputPath": "D:\\My Code\\VNet.Validation\\VNet.Validation.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1060,8 +1060,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\My Code\\VNet.Validation.git\\VNet.Validation\\VNet.Validation.csproj": {
-              "projectPath": "D:\\My Code\\VNet.Validation.git\\VNet.Validation\\VNet.Validation.csproj"
+            "D:\\My Code\\VNet.Validation\\VNet.Validation\\VNet.Validation.csproj": {
+              "projectPath": "D:\\My Code\\VNet.Validation\\VNet.Validation\\VNet.Validation.csproj"
             }
           }
         }

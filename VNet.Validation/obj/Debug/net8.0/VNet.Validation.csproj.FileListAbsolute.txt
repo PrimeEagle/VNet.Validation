@@ -11,3 +11,16 @@ D:\My Code\VNet.Validation.git\VNet.Validation\obj\Debug\net8.0\VNet.Validation.
 D:\My Code\VNet.Validation.git\VNet.Validation\obj\Debug\net8.0\refint\VNet.Validation.dll
 D:\My Code\VNet.Validation.git\VNet.Validation\obj\Debug\net8.0\VNet.Validation.pdb
 D:\My Code\VNet.Validation.git\VNet.Validation\obj\Debug\net8.0\ref\VNet.Validation.dll
+D:\My Code\VNet.Validation\VNet.Validation\bin\Debug\net8.0\VNet.Validation.deps.json
+D:\My Code\VNet.Validation\VNet.Validation\bin\Debug\net8.0\VNet.Validation.dll
+D:\My Code\VNet.Validation\VNet.Validation\bin\Debug\net8.0\VNet.Validation.pdb
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\VNet.Validation.csproj.AssemblyReference.cache
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\VNet.Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\VNet.Validation.AssemblyInfoInputs.cache
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\VNet.Validation.AssemblyInfo.cs
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\VNet.Validation.csproj.CoreCompileInputs.cache
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\VNet.Validation.sourcelink.json
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\VNet.Validation.dll
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\refint\VNet.Validation.dll
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\VNet.Validation.pdb
+D:\My Code\VNet.Validation\VNet.Validation\obj\Debug\net8.0\ref\VNet.Validation.dll
