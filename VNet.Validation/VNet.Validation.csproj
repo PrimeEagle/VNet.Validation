@@ -1,28 +1,25 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
 	<PropertyGroup>
 		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
 	</PropertyGroup>
 
 	<ItemGroup>
 		<PackageReference Include="FluentValidation" Version="11.8.1" />
 	</ItemGroup>
 
-	<PropertyGroup>
-		<UsePackageReferences Condition="'$(UsePackageReferences)' == ''">false</UsePackageReferences>
+	<PropertyGroup Condition="'$(ServerBuild)' != ''">
 	</PropertyGroup>
 
-	<!-- Include project references by default -->
-	<ItemGroup Condition="'$(UsePackageReferences)' != 'true'">
-
+	<ItemGroup Condition="'$(ServerBuild)' != ''">
 	</ItemGroup>
 
-	<!-- Include NuGet package references when UsePackageReferences is true -->
-	<ItemGroup Condition="'$(UsePackageReferences)' == 'true'">
-
+	<ItemGroup Condition="'$(ServerBuild)' == ''">
 	</ItemGroup>
-	
-	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
-	  <Exec Command="xcopy /e /y &quot;$(TargetPath)&quot; &quot;D:\My Code\VNet bin\&quot;" />
+
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent" Condition="'$(ServerBuild)' == ''">
+		<Exec Command="xcopy /e /y &quot;$(TargetPath)&quot; &quot;D:\My Code\VNet bin\&quot;" />
 	</Target>
 </Project>
