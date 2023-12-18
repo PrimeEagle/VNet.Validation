@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VNet.Validation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43c9e514701b01d5a179cbbe11d1d5a36a6480b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d8b4c27ce778af03dfa9b26dbcc8640d5195f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("VNet.Validation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VNet.Validation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
