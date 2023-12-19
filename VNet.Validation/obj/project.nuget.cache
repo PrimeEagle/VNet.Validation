@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tJPLbAc4yfYb+PUsXiKp0AZFaT198b7UeRuOLUymN/51Dpi9OO6QirXiKG+9WB/ZDA05ZS+8XcyHtpBwSEYe6A==",
+  "dgSpecHash": "dtASXnKM2OqrUTRdF33yT4cpbKq/hP/XCSzi21RgpMeJf06jxPE6/IkUv0uuQ3oOsQ+WRKzXiXCq1g9C09I+Kg==",
   "success": true,
-  "projectFilePath": "D:\\My Code\\VNet.Validation\\VNet.Validation\\VNet.Validation.csproj",
+  "projectFilePath": "D:\\My Code\\VNet-Solution\\VNet.Validation\\VNet.Validation\\VNet.Validation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnv\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
   ],
