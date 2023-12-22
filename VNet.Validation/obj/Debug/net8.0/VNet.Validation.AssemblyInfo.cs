@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Class library for validation functionality.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07307ba6c6367298e1027b2944a09f00f906096d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VNet.Validation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VNet.Validation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
